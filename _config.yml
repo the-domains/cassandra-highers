@@ -1,6 +1,6 @@
 name: Cassandra.highers
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.72228
 typography_spectrum: 0.71841
 title: Graphic Designer for Hire
 cta:
@@ -22,7 +22,7 @@ color:
     - '#16a24b'
     - '#e6e6e8'
     - '#6a6b6d'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0
   saturation: 0
   rhythmicContrast: 1
