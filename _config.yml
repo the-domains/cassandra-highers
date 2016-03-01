@@ -1,7 +1,7 @@
 name: Cassandra.highers
 favicon: null
-layout_spectrum: 0.12895263824611902
-typography_spectrum: 0.4338205438107252
+layout_spectrum: 0
+typography_spectrum: 0.71841
 title: Graphic Designer for Hire
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.9980797474272549
-  lightness: 0.9891481976956129
-  saturation: 0.7556960585061461
-  rhythmicContrast: 0.0270873480476439
+    - '#115632'
+    - '#211f20'
+    - '#16a24b'
+    - '#e6e6e8'
+    - '#6a6b6d'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
