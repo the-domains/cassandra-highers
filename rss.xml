@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Graphic Designer for Hire]]></title>
+        <description><![CDATA[Graphic Designer for Hire]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Mar 2016 03:16:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cassandra.Highers]]></title>
+            <description><![CDATA[<article><h1>Cassandra.Highers</h1><p>I am a Graphic Designer & Artist for hire. I am available for various design services such as: Logo Design, Advertisement Design, Business Card Design, Page Layout, Branding, Acrylic Paintings, Pencil Sketches, etc.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cca87b934aa684e0215fde8dd5e5a9e9d48ccd9c.png"></article>]]></description>
+            <link>undefinedcassandrahighers/index.html</link>
+            <guid isPermaLink="false">f38e7fc5-0df1-41c3-9e00-d2df419a223f</guid>
+            <pubDate>Tue, 01 Mar 2016 03:16:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
