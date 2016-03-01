@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Graphic Designer for Hire]]></title>
         <description><![CDATA[Graphic Designer for Hire]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cassandra-highers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 03:16:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Mar 2016 03:17:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cassandra-highers/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c4b46562621f19aa6437013b4838e1e452d9527.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cassandra-highers/253cd28d-5361-47cb-bf8d-64b000f55c59/index.html</link>
+            <guid isPermaLink="false">253cd28d-5361-47cb-bf8d-64b000f55c59</guid>
+            <pubDate>Tue, 01 Mar 2016 03:17:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cassandra.Highers]]></title>
             <description><![CDATA[<article><h1>Cassandra.Highers</h1><p>I am a Graphic Designer & Artist for hire. I am available for various design services such as: Logo Design, Advertisement Design, Business Card Design, Page Layout, Branding, Acrylic Paintings, Pencil Sketches, etc.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cca87b934aa684e0215fde8dd5e5a9e9d48ccd9c.png"></article>]]></description>
-            <link>undefinedcassandrahighers/index.html</link>
+            <link>https://thegrid.ai/cassandra-highers/cassandrahighers/index.html</link>
             <guid isPermaLink="false">f38e7fc5-0df1-41c3-9e00-d2df419a223f</guid>
             <pubDate>Tue, 01 Mar 2016 03:16:49 GMT</pubDate>
         </item>
